@@ -1,6 +1,6 @@
 {
   "name": "hapi-knex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "hapi knex plugin",
   "main": "index.js",
   "scripts": {
