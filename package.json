@@ -11,13 +11,23 @@
   "license": "MIT",
   "dependencies": {
     "hoek": "^3.0.4",
-    "joi": "^8.0.4",
-    "knex": "^0.10.0"
+    "joi": "^8.0.4"
   },
   "devDependencies": {
     "code": "^2.1.1",
     "hapi": "^13.2.1",
     "lab": "^10.2.0",
     "sqlite3": "^3.1.1"
-  }
+  },
+  "peerDependencies": {
+    "knex": ">=0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iostat42/hapi-knex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iostat42/hapi-knex/issues"
+  },
+  "homepage": "https://github.com/iostat42/hapi-knex"
 }

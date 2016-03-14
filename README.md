@@ -1,4 +1,4 @@
-# storey
+# hapi-knex
 
 Knex plugin for hapi.
 
