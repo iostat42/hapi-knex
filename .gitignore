@@ -1,0 +1,5 @@
+.tmp
+node_modules
+test/artifacts/*
+.DS_Store
+._.DS_Store
